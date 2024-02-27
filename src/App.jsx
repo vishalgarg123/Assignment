@@ -45,7 +45,7 @@ const App = () => {
             >
               <ul>
                 <li>
-                  C.R.I.'s energy efficient products are well recognized by
+                  C.R.I.s energy efficient products are well recognized by
                   various Government Institutions, as trustworthy products for
                   various projects across the globe to save energy.
                 </li>
@@ -75,8 +75,8 @@ const App = () => {
                 padding: "2px",
               }}
             >
-              Government of India has awarded the "National Energy Conservation
-              Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I.
+              Government of India has awarded the National Energy Conservation
+              Award 2018. Mr. G. Selvaraj, Joint Managing Director of C.R.I.
               Group received the award from Smt. Sumitra Mahajan, Speaker of Lok
               Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.
             </p>
