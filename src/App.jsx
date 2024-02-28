@@ -122,7 +122,7 @@ const App = () => {
         <hr style={{ border: "1px solid red" }} />
         <p
           style={{
-            fontSize: "30px",
+            fontSize: "40px",
             fontWeight: "bold",
             display: "flex",
             justifyContent: "center",
@@ -133,17 +133,17 @@ const App = () => {
         </p>
         <p
           style={{
-            fontSize: "30px",
+            fontSize: "50px",
             fontWeight: "bold",
             display: "flex",
             justifyContent: "center",
             padding: "2px",
           }}
         >
-          CHEMICALS & PROCESS POWER WATER & WASTE WATER OILS & GAS PHARMA SUGARS
-          & DISTILLERIES PAPER & PULP MARINE & DEFENCE METAL & MINING FOOD &
-          BEVERAGE PETROCHEMICAL & REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING
-          AGRICULTURE & RESIDENTIAL
+          CHEMICALS & PROCESS | POWER | WATER & WASTE WATER | OILS & GAS PHARMA
+          | SUGARS & DISTILLERIES | PAPER & PULP | MARINE & DEFENCE | METAL &
+          MINING | FOOD & BEVERAGE | PETROCHEMICAL & REFINERIES | SOLAR |
+          BUILDING | HVAC | FIRE FIGHTING | AGRICULTURE & RESIDENTIAL
         </p>
         <footer>
           <div className="container">
